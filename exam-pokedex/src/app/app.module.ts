@@ -28,3 +28,16 @@ import { PokemeonFoudreListComponent } from './pokemeon-foudre-list/pokemeon-fou
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+/* @NgModule({
+declarations: [
+AppComponent,
+HeroesListComponent // cette ligne a été ajoutée suite à notre commande
+],
+imports: [
+BrowserModule,
+AppRoutingModule
+],
+providers: [],
+bootstrap: [AppComponent]
+})
+export class AppModule { } */
