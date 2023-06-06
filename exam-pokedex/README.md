@@ -2,8 +2,8 @@
 /********************************************** Pour SAYAH ***************************************************/
 /*Prénom, NOM, ainsi que votre promotion et votre école.*/
 
-Marc/ Lagardere-Eymery/ POEI ITEKWAY / WEBFORCE 3 / mai/juin 2023 
-Mon pseudo est Scaphy ;)
+/*Marc/ Lagardere-Eymery/ POEI ITEKWAY / WEBFORCE 3 / mai/juin 2023 /
+Mon pseudo est Scaphy ;)*/
 
 
 
